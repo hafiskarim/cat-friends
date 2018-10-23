@@ -1,7 +1,7 @@
 # Cat Friends
 ### Getting Started
 ## Development
-### Project Setup
+### Installations
 ```
 git clone https://github.com/hafiskarim/cat-friends.git
 npm install
