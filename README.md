@@ -1,5 +1,6 @@
 # Cat Friends
 ### Getting Started
+live demo: http://cat-friends.surge.sh/
 ## Development
 ### Installation
 ```
