@@ -1,5 +1,7 @@
 # Cat Friends
 
+### Getting Started
+
 ## Development
 ### Project Setup
 ```
